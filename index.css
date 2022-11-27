@@ -48,20 +48,20 @@ body{
     background-color: #280A00;
     width: 100%;
     }
-    
-.first-side{
-    display: flex;
-    justify-content: flex-start;
-    padding: 20px;
-    gap: 20px;
-    color: white;
-    list-style: none;
-    text-decoration: none;
-    line-height: 1.6;
-    text-transform: capitalize;
-    background-color: #280A00;
-    width: 100%;
-}
+    .second-side{
+        display: flex;
+        justify-content: space-around;
+        background-color: #683503;
+        color: white;
+        line-height: 1.6;
+        list-style: none;
+       text-decoration: none;
+       text-transform: capitalize;
+       padding: 20px;
+        width: 100%;
+       }
+        
+
 }
 .side-item a {
     color: #fff;
