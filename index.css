@@ -38,8 +38,8 @@ body{
     .first-side{
      display: flex;
     justify-content: space-between;
-    padding: 30px;
-    gap: 20px;
+    padding: 35px;
+    gap: 25px;
     color: white;
     list-style: none;
     text-decoration: none;
